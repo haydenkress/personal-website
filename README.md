@@ -1,1 +1,1 @@
-[Website]([url](https://www.haydenkress.com/)) 🪐
+[About Me](https://www.haydenkress.com/) 🪐
