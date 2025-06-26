@@ -35,7 +35,7 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  color: inherit;
 }
 
 .light {
